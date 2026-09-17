@@ -1,5 +1,3 @@
-# causal-experiments
-Causal inference and causal machine learning through experiments, implementations, and research.
 
 Exploring causal inference and causal machine learning through experiments and implementations, with a focus on personalized decision making.
 
