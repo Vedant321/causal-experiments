@@ -1,7 +1,7 @@
 
 Exploring causal inference and causal machine learning through experiments and implementations, with a focus on personalized decision making.
 
-## Expriment 1:
+## Experiment 1:
 
 We simulate a digital advertising scenario with 50,000 customers. Customers are randomly assigned to receive an advertisement or not, and we observe whether they make a purchase.
 
