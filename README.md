@@ -16,6 +16,8 @@ However, the effect was not uniform across customers:
 - Low-engagement customers: **18.75%** treatment effect
 - High-engagement customers: **11.29%** treatment effect
 
+
+## Experiment 2:
 We then compared S-Learner, T-Learner, and X-Learner on unseen data:
 
 | Method | Correlation | MAE |
